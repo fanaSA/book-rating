@@ -1,0 +1,3 @@
+book-rating.integration:
+    fake-rest-api:
+      url: http://fakerestapi.azurewebsites.net
